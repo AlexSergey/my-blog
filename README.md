@@ -1,6 +1,6 @@
 # Blog
 
-Articles by Serhii Aleksandrov. Newest first.
+Articles by [Serhii Aleksandrov](https://github.com/AlexSergey). Newest first.
 
 ## OpenSA
 
